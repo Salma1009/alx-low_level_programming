@@ -1,1 +1,1 @@
-dynamic libraries functions
+Solutions to tasks on dynamic libraries (funcs)
